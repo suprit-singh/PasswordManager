@@ -1,8 +1,6 @@
-# React + Vite
+# Password Manager
+## MERN Stack project
+This web application is designed in a way that user can easily access there saved passwords username for it's URL.
+It is easily accessible because this web application stores the passwords in database.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+All the passwords u will save will go to the database created with a collection name in MongoDB.
